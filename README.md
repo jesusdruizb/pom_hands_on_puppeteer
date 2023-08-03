@@ -13,3 +13,6 @@ to test, run
 ```
 npm run test
 ```
+
+
+Solution to the POM exercise can be found in the 'solution' folder
